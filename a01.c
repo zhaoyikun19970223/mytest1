@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-// fei bo na qi code!
+// My task, use my code!
 
 int main(void)
 {
