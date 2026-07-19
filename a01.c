@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-// Local code!
+// Remote code!
 
 int main(void)
 {
