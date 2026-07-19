@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-// Remote code!
+// fei bo na qi code!
 
 int main(void)
 {
