@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-// Remote code!
+// Remote code!  Whether cover!
 
 int main(void)
 {
